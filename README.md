@@ -2,8 +2,7 @@
 Apartir daqui é onde eu começo a editar meu perfil.
 -->
 # Daniel Noronha    
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dndas/)]
-(https://www.linkedin.com/in/dndas/)    
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dndas/)](https://www.linkedin.com/in/dndas/)    
 
 ### Olá!!! 👋🏽 Bem vindo ao meu perfil.    
 
