@@ -12,4 +12,4 @@ Apartir daqui é onde eu começo a editar meu perfil.
  
  Recentemente descobri uma paixão, desenvolvimento, e estou estudando diariamente para me tornar um excelente desenvolvedor.    
  
- Atualmente trabalho com infraestrutura de TI focado em armazenamento e cópia de segurança, mas estou procurando oportunidades para trabalhar com desenvolvimento WEB ou MOBILE.
+ Atualmente trabalho com infraestrutura de TI focado em armazenamento e cópia de segurança, mas estou procurando oportunidades para trabalhar com desenvolvimento WEB.
