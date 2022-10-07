@@ -12,4 +12,4 @@ Apartir daqui é onde eu começo a editar meu perfil.
  
  Linux - Shell Script - Python - Docker - MySQL - HTML - CSS - Javascript - Git - GitHub - IBM TSM - IBM Spectrum Protect - Control-M
  
- Estou em processo de migração de carreira, procuro atuar com desenvolvimento backend, automação de infraestrutura e administração de servidores Linux em Cloud.
+ Estou em processo de migração de carreira, procuro atuar com desenvolvimento backend, automação de infraestrutura e administração de servidores Linux e Cloud.
